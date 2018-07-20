@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="imall">
+    <output-path>$PROJECT_DIR$/out/artifacts/imall</output-path>
+    <root id="root">
+      <element id="module-output" name="imall" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+    </root>
+  </artifact>
+</component>
